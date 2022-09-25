@@ -1,10 +1,10 @@
 - name: Home
   link: /
 - name: Motherboards
-  link: /motherboards.html
+  link: motherboards.html
 - name: Graphics
-  link: /graphics.html
+  link: graphics.html
 - name: PSUs
-  link: /psu.html
+  link: psu.html
 - name: Cases
-  link: /cases.html
+  link: cases.html
