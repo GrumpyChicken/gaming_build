@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 title: "Motherboards"
+permalink: /motherboards
 ---
 
 ## Overview ##
